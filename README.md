@@ -12,7 +12,6 @@ webpose
 ├── haarcascade_frontalface_default.xml
 ├── model.caffemodel
 ├── requirements.txt
-├── webpose.py
 └── webpose.py
 ```
 
